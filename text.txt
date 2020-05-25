@@ -1,0 +1,30 @@
+
+
+Cell-cycle dynamics of chromosomalorganization at single-cell resolution 
+
+
+Chromosomes in proliferating metazoan cells undergo marked structural metamorphoses every cell cycle, alternating 
+between highly condensed mitotic structures that facilitate chromosome segregation, and decondensed interphase 
+structures that accommodate transcription, gene silencing and DNA replication. Here we use single-cell Hi-C (high-
+resolution chromosome conformation capture) analysis to study chromosome conformations in thousands of individual 
+cells, and discover a continuum of cis-interaction profiles that finely position individual cells along the cell cycle. We 
+show that chromosomal compartments, topological-associated domains (TADs), contact insulation and long-range loops, 
+all defined by bulk Hi-C maps, are governed by distinct cell-cycle dynamics. In particular, DNA replication correlates 
+with a build-up of compartments and a reduction in TAD insulation, while loops are generally stable from G1 to S and 
+G2 phase. Whole-genome three-dimensional structural models reveal a radial architecture of chromosomal compartments 
+with distinct epigenomic signatures. Our single-cell data therefore allow re-interpretation of chromosome conformation 
+maps through the prism of the cell cycle. 
+
+As cells progress from mitosis to interphase and back again, their chromosomes 
+undergo notable structural alterations that have intrigued 
+microscopists for more than a century1. In preparation for mitosis and 
+cell division, chromosomes are packaged into rod-like structures that 
+are functionally inert. Upon mitotic exit, chromosomes rapidly decon-
+dense into structures that allow regulated access to functional elements, 
+enabling genome functions such as transcription, gene silencing 
+and DNA replication. Although the structural and organizational 
+principles of the interphase genome have been the subject of intense 
+study, in particular using Hi-C2–10, genome-wide, high-resolution 
+understanding of chromosome cell-cycle dynamics11 is still limited by 
+current technologies. 
+
